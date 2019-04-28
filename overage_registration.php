@@ -36,6 +36,7 @@ if(!isset($_SESSION))
 
 </head>
 
+
 <body>
     <?php include("header_loggedout.php")?>
 
