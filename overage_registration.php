@@ -264,6 +264,7 @@ if(!isset($_SESSION))
         <div class="block_1"><p style="padding-top:30px"></div> <hr>
 
         <div class="container">
+            
         <!-- Health Information -->
         </div>
             <label><p style = "font-size:30px;padding-top: 10px;">Health Information</p></label>
